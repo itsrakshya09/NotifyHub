@@ -11,10 +11,10 @@
 }
 
 :root {
-  color: #e2e8f0;
+  color: #3c7dd1;
   font-family: var(--font-sans);
   --background: oklch(0.15 0.02 255);
-  --foreground: oklch(0.97 0.01 255);
+  --foreground: oklch(55.519% 0.18896 330.727);
   --card: oklch(0.2 0.02 255 / 0.82);
   --card-foreground: oklch(0.97 0.01 255);
   --popover: oklch(0.18 0.02 255);
